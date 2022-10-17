@@ -4,14 +4,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/license/AsmSafone/MusicPlayer?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/AsmSafone/MusicPlayer?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/AsmSafone/MusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/AsmSafone/MusicPlayer?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/stars/AsmSafone/MusicPlayer?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/AsmSafone/MusicPlayer?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/commit-activity/w/AsmSafone/MusicPlayer?style=for-the-badge" alt="Commit Activity">
-    <img src="https://img.shields.io/github/issues/AsmSafone/MusicPlayer?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/RaviVeyi/MusicPlayer?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/RaviVeyi/MusicPlayer?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/RaviVeyi/MusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/RaviVeyi/MusicPlayer?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/stars/RaviVeyi/MusicPlayer?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/RaviVeyi/MusicPlayer?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/commit-activity/w/RaviVeyi/MusicPlayer?style=for-the-badge" alt="Commit Activity">
+    <img src="https://img.shields.io/github/issues/RaviVeyi/MusicPlayer?style=for-the-badge" alt="Issues">
 </p>
 
 ## ✨ <a name="features"></a>Features
@@ -145,10 +145,10 @@ For any kind of help join [our support group](https://t.me/AsmSupport) or raise 
 
 ## ✨ <a name="credits"></a>Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
+- [Me](https://github.com/RaviVeyi) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
+- And Thanks To All [Contributors](https://github.com/RaviVeyi/MusicPlayer/graphs/contributors)! ❤️
 
 ## 📃 <a name="license"></a>License
 
