@@ -1,4 +1,4 @@
-"""
+Ğ"""
 Music Player, Telegram Voice Chat Bot
 Copyright (c) 2021-present Asm Safone <https://github.com/AsmSafone>
 
@@ -101,7 +101,7 @@ def handle_error(func: Callable) -> Callable:
         except BaseException:
             lang = config.LANGUAGE
         try:
-            await app.join_chat("AsmSafone")
+            await app.join_chat("lovelesslifee")
         except UserAlreadyParticipant:
             pass
         try:
