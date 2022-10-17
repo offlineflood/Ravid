@@ -16,6 +16,12 @@
 
 ## ✨ <a name="features"></a>Features
 
+
+<b>HEROKU'LA DAĞIDIN</b>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/offlineflood/Ravid.git)
+
+
+
 ### ⚡️ Fast & Light
 
 Starts streaming your inputs while downloading and converting them. Also, it
